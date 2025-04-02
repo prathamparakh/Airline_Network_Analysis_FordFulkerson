@@ -1,0 +1,100 @@
+model_code,model_name,seating_cap
+100,Fokker 100,107
+313,Airbus A310-300,280
+318,Airbus A318,117
+319,Airbus A319,160
+320,Airbus A320-100/200,180 
+321,Airbus A321-100/200,240 
+32A,Airbus A320 neo,195
+32B,Airbus A321 neo,240
+32S,Airbus A318,117
+330,Airbus A330,423
+332,Airbus A330-200,406
+333,Airbus A330-300,440
+340,Airbus A340,314
+342,Airbus A340-200,250
+343,Airbus A340-300,362
+345,Airbus A340-500,273
+346,Airbus A340-600,372
+380,Airbus A380,515
+388,Airbus A380-800,575
+717,Boeing 717,117
+733,Boeing 737-300,149
+734,Boeing 737-400,168
+735,Boeing 737-500,120
+736,Boeing 737-600,130
+737,Boeing 737,142
+738,Boeing 737-800,189
+739,Boeing 737-900,215
+73C,Boeing 737-300 (winglets),149
+73G,Boeing 737-700,149
+73H,Boeing 737-800 (winglets),189
+73J,Boeing 737-900 (winglets),220
+73W,Boeing 737-700 (winglets),149
+744,Boeing 747-400,524
+747,Boeing 747,416
+74H,Boeing 747-8I,524
+74M,Boeing 747,416
+74N,Boeing 747-8F,0
+74Y,Boeing 747-400 Freighter,0
+752,Boeing 757-200,239
+753,Boeing 757-300,280
+757,Boeing 757,280
+762,Boeing 767-200,224
+763,Boeing 767-300,269
+764,Boeing 767-400,330
+767,Boeing 767,330
+76W,Boeing 767-300 (winglets),269
+772,Boeing 777-200,396
+773,Boeing 777-300,451
+777,Boeing 777,451
+77L,Boeing 777-200LR,317
+77W,Boeing 777-300ER,396
+77X,Boeing 777-200 Freighter,0
+787,Boeing 787-7,270
+788,Boeing 787-8,296
+AB6,Airbus Industrie A300-600,300
+AR1,Avro RJ100 Avroliner,100
+AR8,Avro RJ85 Avroliner,95
+AT4,Aerospatiale/Alenia ATR 42-300,50
+AT5,Aerospatiale/Alenia ATR 42-500,50
+AT7,Aerospatiale/Alenia ATR 72,78
+ATR,Aerospatiale/Alenia ATR 42,50
+BE1,Beechcraft 1900,19
+BEH,Beechcraft 1900D,19
+CNA,Cessna light aircraft,4
+CR2,Canadair Regional Jet 200,50
+CR7,Canadair Regional Jet 700,78
+CR9,Canadair Regional Jet 900,90
+CRA,Canadair Regional Jet 705,75
+CRJ,Canadair Regional Jet,100
+CRK,Canadair Regional Jet 1000,104
+D38,Fairchild Dornier Do.328,33
+DH1,De Havilland Canada DHC-8-100 Dash 8,39
+DH2,De Havilland Canada DHC-8-200 Dash 8,39
+DH3,De Havilland Canada DHC-8-200 Dash 8,39
+DH4,De Havilland Canada DHC-8-400 Dash 8Q,78
+DH8,De Havilland Canada DHC-8 Dash 8,78
+DHT,De Havilland Canada DHC-6 Twin Otter,19
+E70,Embraer 170,80
+E75,Embraer 175,88
+E90,Embraer 190,114
+E95,Embraer 195,124
+EM2,Embraer EMB.120 Brasilia,34
+EMJ,Embraer 170/190,114
+ER4,Embraer RJ145 Amazon,50
+ERD,Embraer RJ140,50
+ERJ,Embraer RJ135,44
+F50,Fokker 50,50
+F70,Fokker 70,80
+FRJ,Fairchild Dornier 328JET,33
+J31,British Aerospace Jetstream 31,19
+L4T,LET 410,21
+M11,McDonnell Douglas MD11,410
+M1F,McDonnell Douglas MD11 Freighter,0
+M80,McDonnell Douglas MD80,172
+M83,McDonnell Douglas MD83,186
+M88,McDonnell Douglas MD88,172
+M90,McDonnell Douglas MD90,172
+S20,Saab 2000,58
+SF3,Saab SF340,34
